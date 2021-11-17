@@ -6,8 +6,6 @@ Este repositório consiste em uma construção de um serie temporal, com sua dec
 
 Links Datasets:
 
-[Datasets pré processamento](https://drive.google.com/drive/folders/1mUFsf2w0FZ4KEjZO-GtnYLPewL9HWGAi?usp=sharing)
-
 [Datasets pós processamento](https://drive.google.com/drive/folders/1z_y9DMYwsc8M3byWObPqhLqNxSxBKN6n?usp=sharing)
 
 
